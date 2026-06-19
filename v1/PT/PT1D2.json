@@ -1,0 +1,265 @@
+{
+  "nuts3_id": "PT1D2",
+  "generated_at": "2026-06-18T15:57:24",
+  "countries_count": 0,
+  "nuts1_count": 0,
+  "nuts2_count": 0,
+  "nuts3_count": 1,
+  "lau_count": 80,
+  "parcel_count": 28891,
+  "farm_count": 3867,
+  "osa_count": 50389,
+  "area_ha": 41806.095,
+  "CAT_OCU_SIGLA": {
+    "ELP": {
+      "parcel_count": 63,
+      "farm_count": 39,
+      "osa_count": 74,
+      "area_ha": 11.346
+    },
+    "SAG": {
+      "parcel_count": 27987,
+      "farm_count": 3854,
+      "osa_count": 47702,
+      "area_ha": 39433.937
+    },
+    "SFL": {
+      "parcel_count": 1836,
+      "farm_count": 835,
+      "osa_count": 2613,
+      "area_ha": 2360.814
+    }
+  },
+  "CLA_OCU_SIGLA": {
+    "ACE-ON": {
+      "parcel_count": 10,
+      "farm_count": 7,
+      "osa_count": 13,
+      "area_ha": 2.058
+    },
+    "CAB-CP": {
+      "parcel_count": 506,
+      "farm_count": 307,
+      "osa_count": 936,
+      "area_ha": 55.917
+    },
+    "CHL-EP": {
+      "parcel_count": 17,
+      "farm_count": 13,
+      "osa_count": 19,
+      "area_ha": 2.311
+    },
+    "CPR-OA": {
+      "parcel_count": 40,
+      "farm_count": 38,
+      "osa_count": 47,
+      "area_ha": 6.51
+    },
+    "CTP-CA": {
+      "parcel_count": 7187,
+      "farm_count": 2647,
+      "osa_count": 9531,
+      "area_ha": 7919.196
+    },
+    "FBQ-EP": {
+      "parcel_count": 5,
+      "farm_count": 5,
+      "osa_count": 12,
+      "area_ha": 0.694
+    },
+    "FBQ-FL": {
+      "parcel_count": 18,
+      "farm_count": 16,
+      "osa_count": 18,
+      "area_ha": 1.297
+    },
+    "FFL-FL": {
+      "parcel_count": 211,
+      "farm_count": 92,
+      "osa_count": 507,
+      "area_ha": 1388.483
+    },
+    "GRP-EP": {
+      "parcel_count": 12,
+      "farm_count": 5,
+      "osa_count": 12,
+      "area_ha": 4.763
+    },
+    "LAG-EL": {
+      "parcel_count": 14,
+      "farm_count": 9,
+      "osa_count": 15,
+      "area_ha": 1.233
+    },
+    "MXP-MX": {
+      "parcel_count": 1927,
+      "farm_count": 1287,
+      "osa_count": 2148,
+      "area_ha": 518.679
+    },
+    "OLI-OL": {
+      "parcel_count": 12451,
+      "farm_count": 3266,
+      "osa_count": 14862,
+      "area_ha": 7728.378
+    },
+    "OUT-PE": {
+      "parcel_count": 50,
+      "farm_count": 21,
+      "osa_count": 60,
+      "area_ha": 47.794
+    },
+    "PEQ-FR": {
+      "parcel_count": 153,
+      "farm_count": 74,
+      "osa_count": 220,
+      "area_ha": 138.239
+    },
+    "POM-PM": {
+      "parcel_count": 1511,
+      "farm_count": 884,
+      "osa_count": 1942,
+      "area_ha": 1629.916
+    },
+    "PPE-AR": {
+      "parcel_count": 3754,
+      "farm_count": 1478,
+      "osa_count": 5162,
+      "area_ha": 2080.411
+    },
+    "PPE-MX": {
+      "parcel_count": 46,
+      "farm_count": 32,
+      "osa_count": 51,
+      "area_ha": 45.8
+    },
+    "PPE-OL": {
+      "parcel_count": 53,
+      "farm_count": 47,
+      "osa_count": 59,
+      "area_ha": 41.985
+    },
+    "PPE-PM": {
+      "parcel_count": 23,
+      "farm_count": 16,
+      "osa_count": 27,
+      "area_ha": 93.143
+    },
+    "PPE-PP": {
+      "parcel_count": 5209,
+      "farm_count": 1946,
+      "osa_count": 6582,
+      "area_ha": 6087.886
+    },
+    "PPE-QU": {
+      "parcel_count": 228,
+      "farm_count": 146,
+      "osa_count": 283,
+      "area_ha": 324.118
+    },
+    "SAR-FL": {
+      "parcel_count": 1619,
+      "farm_count": 756,
+      "osa_count": 2056,
+      "area_ha": 964.483
+    },
+    "SEB-EL": {
+      "parcel_count": 1,
+      "farm_count": 1,
+      "osa_count": 1,
+      "area_ha": 0.144
+    },
+    "SOB-CO": {
+      "parcel_count": 2226,
+      "farm_count": 602,
+      "osa_count": 3712,
+      "area_ha": 11851.145
+    },
+    "TLD-EL": {
+      "parcel_count": 7,
+      "farm_count": 5,
+      "osa_count": 7,
+      "area_ha": 0.915
+    },
+    "VAL-EL": {
+      "parcel_count": 6,
+      "farm_count": 4,
+      "osa_count": 7,
+      "area_ha": 1.276
+    },
+    "VIN-VN": {
+      "parcel_count": 1626,
+      "farm_count": 1035,
+      "osa_count": 2076,
+      "area_ha": 861.123
+    },
+    "VIV-AG": {
+      "parcel_count": 4,
+      "farm_count": 2,
+      "osa_count": 4,
+      "area_ha": 3.695
+    },
+    "ZPC-ON": {
+      "parcel_count": 15,
+      "farm_count": 10,
+      "osa_count": 20,
+      "area_ha": 4.495
+    }
+  },
+  "GRA_COB_SIGLA": {
+    "A": {
+      "parcel_count": 70,
+      "farm_count": 51,
+      "osa_count": 79,
+      "area_ha": 87.219
+    },
+    "B": {
+      "parcel_count": 14,
+      "farm_count": 13,
+      "osa_count": 17,
+      "area_ha": 64.721
+    },
+    "C": {
+      "parcel_count": 6,
+      "farm_count": 5,
+      "osa_count": 6,
+      "area_ha": 1.023
+    },
+    "D": {
+      "parcel_count": 33,
+      "farm_count": 26,
+      "osa_count": 35,
+      "area_ha": 27.965
+    }
+  },
+  "OSA_ELE_LIN_PAI": {
+    "N": {
+      "parcel_count": 28749,
+      "farm_count": 3864,
+      "osa_count": 50082,
+      "area_ha": 40787.916
+    },
+    "S": {
+      "parcel_count": 257,
+      "farm_count": 72,
+      "osa_count": 307,
+      "area_ha": 1018.179
+    }
+  },
+  "OSA_PRA_PER": {
+    "N": {
+      "parcel_count": 25746,
+      "farm_count": 3835,
+      "osa_count": 43387,
+      "area_ha": 35213.155
+    },
+    "S": {
+      "parcel_count": 5502,
+      "farm_count": 2013,
+      "osa_count": 7002,
+      "area_ha": 6592.931
+    }
+  },
+  "OSA_PRO_BIO": {},
+  "OSA_SIE": {}
+}
