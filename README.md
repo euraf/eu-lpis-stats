@@ -1,7 +1,7 @@
 # EU LPIS Stats
 ## Land Parcel Identification System Statistics by Administrative Unit
 
-Pre-computed LPIS land-use statistics aggregated by LAU, NUTS3, NUTS2 and country, for use in web mapping and data applications.
+Pre-computed LPIS land-use statistics aggregated by LAU, NUTS3, NUTS2, NUTS1 and country, for use in web mapping and data applications.
 
 This repository provides lightweight JSON files organised according to the official European administrative hierarchy, allowing web applications to load only the statistics they need.
 
@@ -76,7 +76,7 @@ Load country-level stats for Portugal:
 https://raw.githubusercontent.com/euraf/eu-lpis-stats/master/v1/PT/PT.json
 ```
 
-Load NUTS2-level stats:
+Load NUTS1-level stats:
 ```text
 https://raw.githubusercontent.com/euraf/eu-lpis-stats/master/v1/PT/PT1.json
 ```
@@ -131,6 +131,10 @@ Output:
 * `{NUTS2}.json`
 * `{NUTS1}.json`
 * `{COUNTRY}.json`
+
+## Funding
+
+This work received funding from the European Union's Horizon Europe programme through the DigitAF project (grant agreement No. 101059794).
 
 ## License
 
